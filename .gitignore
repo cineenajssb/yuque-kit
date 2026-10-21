@@ -1,0 +1,8 @@
+# 运行时产物，切勿提交
+.venv/
+edge-profile/
+out/
+config.json
+__pycache__/
+*.pyc
+.DS_Store
